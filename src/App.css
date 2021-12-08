@@ -1,0 +1,13 @@
+*
+{
+    box-sizing: border-box;
+}
+.header
+{
+    text-align: center;
+    font-size: x-large;
+}
+body
+{
+    background-color: #f1f1f1;
+}
